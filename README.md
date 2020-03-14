@@ -2,9 +2,8 @@
 Kaggle Google QUEST Q&amp;A Labeling
 
 ## Model
-> Model 1: DistilBERT+USE+CNN+RNN  
-> Model 2: BERT with 4 hidden layers  
-> Model 3: RoBERTa with 4 hidden layers  
+> Model 1: BERT with 4 hidden layers  
+> Model 2: RoBERTa with 4 hidden layers  
 
 ## Final  
 >Blend BERT and RoBERTa model, post-process hard target "question_type_spelling"
